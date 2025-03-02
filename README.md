@@ -16,7 +16,7 @@
 
 <p><strong>Сурет:</strong>
 
-<img src="C:\Users\Lenovo\Downloads\portfolio\AIII KAKOI KRASAVAAA.jpg" width="300"> 
+<img src="" width="300"> 
     </p>  
     <br>
     <p>============================================================</p>
