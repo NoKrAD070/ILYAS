@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NKR PORTFOLIO</title>
+    <title>ILYAS PORTFOLIO</title>
 </head>
 <body>
 
