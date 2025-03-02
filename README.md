@@ -46,5 +46,5 @@
 	Шыңымды айтсам, мен ондайды қатты ойламадым, сондықтан мүмкіндіктер көп емес:<br>
 	<strong>Жаңа өлең стилін тауып, оны танымал ету; Ойын сферасында үлкен өзгерістер жасау; Досыммен жаңа құрылғы жасау.</strong>
 	<br>
-	<p><strong>Кері байланыс:<br>+7 778 150 2792<br>ilyas.mambetalin26@fizmat.kz</strong></p>
+	<p><strong>Контакт:<br>+7 778 150 2792<br>ilyas.mambetalin26@fizmat.kz<br>Telegram: @NKR070<br> inst: @nkrprod070</strong></p>
 </html>
