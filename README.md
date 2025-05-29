@@ -120,7 +120,7 @@
     <br>
     <p>============================================================</p>
     <br>
-    <p translate="yes"><strong>Достижения:</strong> <br>
+    <p translate="yes"><strong>Achievements:</strong> <br>
         4th place in city olympiad of maths, member of olympiad reservists of maths, English Language and IT. <br> 
 	7.0 band on IELTS exam. <br>
 	9th place in National English Olympiad HIPPO.
