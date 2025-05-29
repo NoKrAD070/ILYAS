@@ -49,6 +49,13 @@
 	<strong>Жаңа өлең стилін тауып, оны танымал ету; Ойын сферасында үлкен өзгерістер жасау; Досыммен жаңа құрылғы жасау.</strong>
 	<br>
 	<p translate="yes"><strong>Контакт:<br>+7 778 150 2792<br>ilyas.mambetalin26@fizmat.kz<br>Telegram: @NKR070<br> inst: @nkrprod070</strong></p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h2>ILYAS MAMBETALIN</h2>
 
@@ -91,4 +98,53 @@
 	<strong>Опопуляризировать новый стиль музыки; совершить большие изменения в сфере игр, а так же создавать полезные приложения.</strong>
 	<br>
 	<p translate="yes"><strong>Контакт:<br>+7 778 150 2792<br>ilyas.mambetalin26@fizmat.kz<br>Telegram: @NKR070<br> inst: @nkrprod070</strong></p>
+ <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>ILYAS MAMBETALIN</h2>
+
+<p translate="yes"><strong>Autobiography:</strong> <br>  
+        16 years old, 10th grade student of National School of Physics and Mathemathics  
+        I have a dad, mom, and older and younger sisters. In my free time I like to play games, learn to play electro piano and also write music
+</p>
+
+<p translate="yes"><strong>Photo:</strong>
+
+<img src="IMG/AIII KAKOI KRASAVAAA.jpg" width="300"> 
+    </p>  
+    <br>
+    <p>============================================================</p>
+    <br>
+    <p translate="yes"><strong>Достижения:</strong> <br>
+        4th place in city olympiad of maths, member of olympiad reservists of maths, English Language and IT. <br> 
+	7.0 band on IELTS exam. <br>
+	9th place in National English Olympiad HIPPO.
+        Releasing my songs on digital music platforms under the alias of <strong>NoKrAD.070</strong> since summer 2023.
+	Record at the moment is 11 000 monthly listeners.
+	The most streamed song - STARLIGHT.<br>
+	<img src="IMG/Снимок экрана 2025-02-24 204907.png">
+</p>
+    <br>
+    <p>============================================================</p>
+    <br>
+    	<p translate="yes"><strong>Chosen profession:</strong> <br>
+	There is no exact answer, however there are multiple choices:<br>
+	1. <strong>Developer</strong>. After gaining enough IT knowledge, I am planning to make a game with my friend<br>
+	2. <strong>Geologist</strong>. Very high paid job, as well as a lot of experience.<br>
+	3. <strong>Analist</strong>. I see it suiting me because I count in my head pretty fast since I was a kid.<br>
+	4. <strong>Graphic Designer</strong>. I loved drawing since childhood, however even without that I believe this job would be interesting <br></p>
+	5. <strong>Beatmaker</strong>. Even though you cannot really call it profession, it is still somewhat paid, also I have a lot of experience in it
+    <br>
+    <p>============================================================</p>
+    <br>
+     <p translate="yes"><strong>My ways of making myself remembered:</strong><br>
+	 To be honest I haven;t really thought about this, so there isn't much:<br>
+	<strong>Creating and popularising a new music style; making big changes in the developing industry; making a game with my friend.</strong>
+	<br>
+	<p translate="yes"><strong>Contacts:<br>+7 778 150 2792<br>ilyas.mambetalin26@fizmat.kz<br>Telegram: @NKR070<br> inst: @nkrprod070</strong></p>
 </html>
