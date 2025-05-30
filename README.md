@@ -85,17 +85,16 @@
     <br>
     	<p translate="yes"><strong>Выбранная профессия</strong> <br>
 	Нету точного выбора, но есть варианты:<br>
-	1. <strong>Разработчик</strong>. Получа достаточно знаний по информатике, планирую создать игру с друзьями.<br>
-	2. <strong>Геолог</strong>. Сильно оплачиваемая работа, а так же большой опыт.<br>
-	3. <strong>Аналитик</strong>. Может подходить так как с детства развиваю арифметические способности.<br>
-	4. <strong>Графический дизайнер</strong>. С детства любил рисовать, однако профессия может быть интересной и без этого <br></p>
-	5. <strong> Битмейкер</strong>. На самом деле это сложно назвать профессией, однако и с нее можно зарабатывать, а так же имеется опыт
+	1. <strong>Разработчик</strong>. Набрав достаточно знаний по информатике, планирую создать игру с друзьями.<br>
+	2. <strong>Аналитик</strong>. Хотелось бы применить мои математические способности на деле и развить их еще дальше<br>
+	3. <strong>Графический дизайнер</strong>. С детства любил рисовать, однако профессия может быть интересной и без этого <br></p>
+	4. <strong> Битмейкер</strong>. На самом деле это сложно назвать профессией, однако имеется опыт и большой интерес.
     <br>
     <p>============================================================</p>
     <br>
      <p translate="yes"><strong>Мой след в истории:</strong><br>
 	Честно говоря я об этом не задумывался, так что вариантов не сильно много:<br>
-	<strong>Опопуляризировать новый стиль музыки; совершить большие изменения в сфере игр, а так же создавать полезные приложения.</strong>
+	<strong>Опопуляризировать новый стиль музыки; совершить большие изменения в сфере игр; создать полезные приложения.</strong>
 	<br>
 	<p translate="yes"><strong>Контакт:<br>+7 778 150 2792<br>ilyas.mambetalin26@fizmat.kz<br>Telegram: @NKR070<br> inst: @nkrprod070</strong></p>
  <br>
@@ -135,15 +134,14 @@
     	<p translate="yes"><strong>Chosen profession:</strong> <br>
 	There is no exact answer, however there are multiple choices:<br>
 	1. <strong>Developer</strong>. After gaining enough IT knowledge, I am planning to make a game with my friend<br>
-	2. <strong>Geologist</strong>. Very high paid job, as well as a lot of experience.<br>
-	3. <strong>Analist</strong>. I see it suiting me because I count in my head pretty fast since I was a kid.<br>
-	4. <strong>Graphic Designer</strong>. I loved drawing since childhood, however even without that I believe this job would be interesting <br></p>
-	5. <strong>Beatmaker</strong>. Even though you cannot really call it profession, it is still somewhat paid, also I have a lot of experience in it
+	2. <strong>Analist</strong>. I would love to use my mathematical skills and upgrade them further<br>
+	3. <strong>Graphic Designer</strong>. I loved drawing since childhood, however even without that I believe this job would be interesting <br></p>
+	4. <strong>Beatmaker</strong>. Even though you cannot really call it profession, the sheer amount of experience and enthusiasm I have for it is a factor
     <br>
     <p>============================================================</p>
     <br>
      <p translate="yes"><strong>My ways of making myself remembered:</strong><br>
-	 To be honest I haven;t really thought about this, so there isn't much:<br>
+	 To be honest I haven't really thought about this, so there isn't much:<br>
 	<strong>Creating and popularising a new music style; making big changes in the developing industry; making a game with my friend.</strong>
 	<br>
 	<p translate="yes"><strong>Contacts:<br>+7 778 150 2792<br>ilyas.mambetalin26@fizmat.kz<br>Telegram: @NKR070<br> inst: @nkrprod070</strong></p>
