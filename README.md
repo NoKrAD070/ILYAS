@@ -38,8 +38,8 @@
 	Әлі нақты таңдалған жоқ, бірақ варианттар бар:<br>
 	1. <strong>Ойын әзірлеуші</strong>. Информатикадан керек білімдерді алып, достарыммен ойын жасағым келеді.<br>
 	2. <strong>Аналитик</strong>. Математикалық қабілеттерімді іс жүзінде қолданып, одан әрі күшейтуге ынталанамын.<br>
-	3. <strong>Графикалық дизайнер</strong>. Сурет салуды жақсы көремін. Бірақ онсыз да маман өте қызық деген ойдамын.<br></p>
-	4. <strong> Битмейкер</strong>. Негізі оны нақты мамандық деп айтуға болмайды, бірақ үлкен тәжірибе мен қызығушылығым бар.ә
+	3. <strong>Графикалық дизайнер</strong>. Сурет салуды жақсы көремін. Бірақ онсыз да маман өте қызық деген ойдамын.<br>
+	4. <strong> Битмейкер</strong>. Негізі оны нақты мамандық деп айтуға болмайды, бірақ үлкен тәжірибе мен қызығушылығым бар.</p>
     <br>
     <p>============================================================</p>
     <br>
@@ -86,8 +86,8 @@
 	Нету точного выбора, но есть варианты:<br>
 	1. <strong>Разработчик</strong>. Набрав достаточно знаний по информатике, планирую создать игру с друзьями.<br>
 	2. <strong>Аналитик</strong>. Хотелось бы применить мои математические способности на деле и развить их еще дальше<br>
-	3. <strong>Графический дизайнер</strong>. С детства любил рисовать, однако профессия может быть интересной и без этого <br></p>
-	4. <strong> Битмейкер</strong>. На самом деле это сложно назвать профессией, однако имеется опыт и большой интерес.
+	3. <strong>Графический дизайнер</strong>. С детства любил рисовать, однако профессия может быть интересной и без этого <br>
+	4. <strong> Битмейкер</strong>. На самом деле это сложно назвать профессией, однако имеется опыт и большой интерес</p>
     <br>
     <p>============================================================</p>
     <br>
@@ -134,8 +134,8 @@
 	There is no exact answer, however there are multiple choices:<br>
 	1. <strong>Developer</strong>. After gaining enough IT knowledge, I am planning to make a game with my friend<br>
 	2. <strong>Analist</strong>. I would love to use my mathematical skills and upgrade them further<br>
-	3. <strong>Graphic Designer</strong>. I loved drawing since childhood, however even without that I believe this job would be interesting <br></p>
-	4. <strong>Beatmaker</strong>. Even though you cannot really call it profession, the sheer amount of experience and enthusiasm I have for it is a factor
+	3. <strong>Graphic Designer</strong>. I loved drawing since childhood, however even without that I believe this job would be interesting <br>
+	4. <strong>Beatmaker</strong>. Even though you cannot really call it profession, the sheer amount of experience and enthusiasm I have for it is a factor </p>
     <br>
     <p>============================================================</p>
     <br>
